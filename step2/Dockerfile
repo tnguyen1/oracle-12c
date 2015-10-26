@@ -1,5 +1,5 @@
 FROM oracle-12c:installed
-MAINTAINER Wouter Scherphof <wouter.scherphof@gmail.com>
+MAINTAINER Truc Nguyen <truc.nguyen@bonitasoft.com>
 
 RUN rm -rf /tmp/install
 

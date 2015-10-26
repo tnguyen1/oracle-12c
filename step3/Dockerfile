@@ -1,5 +1,5 @@
 FROM oracle-12c:created
-MAINTAINER Wouter Scherphof <wouter.scherphof@gmail.com>
+MAINTAINER Truc Nguyen <truc.nguyen@bonitasoft.com>
 
 RUN rm /tmp/create
 
